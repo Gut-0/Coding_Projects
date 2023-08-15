@@ -14,7 +14,7 @@
 * [Instructions to Run the Program](#Instructions-to-Run-the-Program)
 * [Reference](#Reference)
 * [Example Usage](#Example-Usage)
-* [Jupyter Notebook](#Jupyter Notebook)
+* [Jupyter Notebook](#Jupyter-Notebook)
 
 ## Overview
 <p style="text-align: justify">
