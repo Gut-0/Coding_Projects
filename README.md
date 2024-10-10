@@ -2,11 +2,6 @@
 
 Hello! 👋 I'm Gustavo Borges, a computer science student on a journey of learning. This repository is a collection of coding assignments, small projects, and coursework completed during my studies.
 
-## About Me
-
-- 🎓 Computer Science Student
-- 🌱 Learning every day
-
 ## What You'll Find Here
 
 Here's what you can find in my repository:
